@@ -1,2 +1,2 @@
 # first-repository
-My first GitHub repository created while learning Git and GitHub.
+Learning Git, GitHub, and version control fundamentals.
